@@ -28,7 +28,7 @@ This project is a Node.js application that uses the cluster module to leverage m
 1. Clone the repository:
 
    ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/EmanSaeed331/Parallelism-nodejs.git
     cd <your-project-directory>
    ```
 2. Install dependencies (if not using Docker for local development):
